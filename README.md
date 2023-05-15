@@ -1,6 +1,6 @@
 # NewsLetter_Signup
 
-This is the 6th project i made under Angela Yu course 
+A project i made under Angela Yu course 
 
 deployed in vercel
 
